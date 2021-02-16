@@ -1,6 +1,6 @@
 <?php
 
-$con = mysqli_connect('localhost', 'root', '','db_connect');
+$con = mysqli_connect('bsrud28jfdhtlgb57sxg-mysql.services.clever-cloud.com', 'ugcbfn1nqyaxnonq', 'w1raDIKeMsiU8pI5cm5w','bsrud28jfdhtlgb57sxg');
 
 // get the post records
 $txtName = $_POST['txtName'];
